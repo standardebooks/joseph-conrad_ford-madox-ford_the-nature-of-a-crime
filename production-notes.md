@@ -1,0 +1,1 @@
+This ebook is a short story, but it's the only one written as a collaboration between these two major authors. Instead of duplicating it in both Conrad and Ford omnibuses, it's issued individually, as an exception to the SE omnibus collections policy.
