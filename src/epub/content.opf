@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad_ford-madox-ford/the-nature-of-a-crime</dc:identifier>
 		<dc:date>2026-05-09T15:44:04Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008119361</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The unnamed narrator of &lt;i&gt;The Nature of a Crime&lt;/i&gt; is a lawyer in a difficult situation: he has been entrusted with looking after the assets of a wealthy family—but he’s lost most of it gambling. Some small portion remains, and he still has hopes of recovering his losses. But when his client announces that he’s getting married and requires his funds returned immediately, the narrator finds himself on the verge of suicide. He writes letters to his lover explaining his predicament in an attempt to come to terms with his actions.&lt;/p&gt;
 			&lt;p&gt;This short story, first published in 1909, is the last of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt;. It never saw contemporary critical or commercial success and thus remained out of print for many years. In 1924 it was reissued with new prefaces by the authors written about two months before Conrad’s death.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75172</dc:source>
 		<dc:source>https://archive.org/details/natureofcrime0000conr</dc:source>
