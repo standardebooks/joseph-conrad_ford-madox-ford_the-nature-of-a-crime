@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008119361</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</dc:abstract>
+		<meta property="schema:abstract">After having gambled away assets entrusted to him, a lawyer writes a series of letters to his lover in an attempt to unburden his conscience.</meta>
 		<dc:description>
 			&lt;p&gt;The unnamed narrator of &lt;i&gt;The Nature of a Crime&lt;/i&gt; is a lawyer in a difficult situation: he has been entrusted with looking after the assets of a wealthy family—but he’s lost most of it gambling. Some small portion remains, and he still has hopes of recovering his losses. But when his client announces that he’s getting married and requires his funds returned immediately, the narrator finds himself on the verge of suicide. He writes letters to his lover explaining his predicament in an attempt to come to terms with his actions.&lt;/p&gt;
 			&lt;p&gt;This short story, first published in 1909, is the last of three collaborations between &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/ford-madox-ford"&gt;Ford Madox Ford&lt;/a&gt;. It never saw contemporary critical or commercial success and thus remained out of print for many years. In 1924 it was reissued with new prefaces by the authors written about two months before Conrad’s death.&lt;/p&gt;
